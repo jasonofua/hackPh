@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "603791718207",
+    "firebase_url": "https://grantie-c6a75.firebaseio.com",
+    "project_id": "grantie-c6a75",
+    "storage_bucket": "grantie-c6a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603791718207:android:ccebddc41a92f7a3",
+        "android_client_info": {
+          "package_name": "com.example.user.grantiecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603791718207-lk2bmamtgmcr743l5rg1a17kmbheddq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.grantiecom",
+            "certificate_hash": "1da8b8780161efdae957e0a451ce7c1f7c01c35b"
+          }
+        },
+        {
+          "client_id": "603791718207-q7mrlvc0buj8svlminng4dlc393cq3ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3FsvoOCSPSABejkQqZSqbASAZK3eHwMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603791718207-q7mrlvc0buj8svlminng4dlc393cq3ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

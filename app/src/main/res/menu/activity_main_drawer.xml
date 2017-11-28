@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/featured"
+            android:icon="@drawable/ic_playlist_add_check"
+            android:title="Featured" />
+        <item
+            android:id="@+id/forum"
+            android:icon="@drawable/ic_view_list"
+            android:title="Forum" />
+        <item
+            android:id="@+id/feeds"
+            android:icon="@drawable/ic_group"
+            android:title="Feeds" />
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+    </group>
+
+</menu>
